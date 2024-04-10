@@ -1,4 +1,4 @@
-사랑, 인내, 창조적 두뇌, 컴퓨터 프로그래밍, 영화사랑 👋
+사랑, 인내, 상상력, 창조적 두뇌, 컴퓨터 프로그래밍(c,c++,java,python), 영화사랑 👋
 
 <!--
 **OkJaePark/OkJaePark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
